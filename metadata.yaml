@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '9360'
     url: http://www.gutenberg.org/2009/agents/9360
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20527#The-Sherwood-Foresters-in-the-Great-War-1914---1919History-of-the-1-8th-Battalion
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-02-06'
 gutenberg_type: Text
